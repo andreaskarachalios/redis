@@ -34,6 +34,7 @@ ipch/
 *.vssscc
 *.bak.*
 *.bak
+*.njproj.user
 
 #Tools
 _ReSharper.*
