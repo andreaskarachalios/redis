@@ -1,2 +1,0 @@
-C:\Users\Andreas\Source\repos\RedisTasks\RedisTasks\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\Andreas\Source\repos\RedisTasks\RedisTasks\obj\Debug\RedisTasks.njsprojAssemblyReference.cache
