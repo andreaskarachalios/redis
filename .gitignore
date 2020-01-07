@@ -1,1 +1,5 @@
-RedisTasks\bin\
+
+bin/debug
+obj/debug
+obj/debug
+bin/debug
